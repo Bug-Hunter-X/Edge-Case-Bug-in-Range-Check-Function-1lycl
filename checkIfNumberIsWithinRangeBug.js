@@ -1,0 +1,1 @@
+function checkIfNumberIsWithinRange(number, min, max) {\n  if (number < min || number > max) {\n    return false;\n  } else {\n    return true;\n  }\n}
